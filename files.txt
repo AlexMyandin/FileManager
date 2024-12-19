@@ -1,0 +1,6 @@
+﻿Report.pdf, 10.05.2023, 200 KB, [work, project]
+Image.jpg, 15.11.2022, 1.5 MB, [vacation, family]
+Notes.txt, 01.01.2021, 50 KB, [work, personal]
+Video.mp4, 20.02.2020, 500 MB, []
+Podcast.mp3, 05.04.2021, 100 MB, [work]
+Money.pdf, 10.08.2023, 900 KB, [work, project]
